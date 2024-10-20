@@ -18,6 +18,7 @@ namespace Yazilim201025
             int carpma = sayi * sayi2;
             int cikarma = sayi - sayi2;
             int bolme = sayi / sayi2;
+
             Console.WriteLine($"Toplam {toplam} Çarpma {carpma} Bölme{bolme} Çıkarma {cikarma}");
             Console.ReadKey();
 
